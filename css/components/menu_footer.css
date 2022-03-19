@@ -1,0 +1,20 @@
+.footer {
+  background-color: #2c2b2b;
+  color:#6b6c6c;
+  padding: 36px 0;
+  margin-top: 36px;
+}
+
+.footer a {
+  font-size: 32px;
+  padding: 24px 8px;
+  color: #1cdd87;
+}
+
+.footer .list-inline {
+  margin-top: 0;
+}
+
+
+
+/* tweaks*/
